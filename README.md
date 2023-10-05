@@ -24,10 +24,13 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu ambiente de dese
 1. Clone este repositório em sua máquina:
 
    git clone https://github.com/samirpegado/djangocrm.git
+   
    cd djangocrm/
+   
    python manage.py runserver
    
    Usuario de teste: admin
+   
    Senha de teste: admin
    
    
